@@ -89,15 +89,6 @@ src/
 - **Container** - Wrapper responsivo
 - **Icon** - Sistema de ícones com animações
 
-## 🔧 Configuração
-
-### Variáveis de Ambiente
-Crie um arquivo `.env.local` na raiz do projeto:
-
-```env
-VITE_APP_TITLE=Todo App
-```
-
 ### Tailwind CSS
 O projeto usa Tailwind CSS 4 com configuração automática. As classes estão disponíveis globalmente.
 
